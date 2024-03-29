@@ -1,23 +1,13 @@
-[Adblock Plus 2.0]
-! Version: 202403291227
-! Title: EasyList
-! Last modified: 29 Mar 2024 12:27 UTC
-! Expires: 4 days (update frequency)
-! *** easylist:template_header.txt ***
+[Adblock Nederlandse Oplichters 0.1]
+! Version: 202403291900
+! Title: Nederlandse Oplichters
+! Last modified: 29 Mar 2024 19:00 UTC
 ! 
 ! Please report any unblocked adverts or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist@protonmail.com).
+! in the forums (https://discord.vellias.nl/)
 ! 
-! Homepage: https://easylist.to/
-! Licence: https://easylist.to/pages/licence.html
-! GitHub issues: https://github.com/easylist/easylist/issues
-! GitHub pull requests: https://github.com/easylist/easylist/pulls
-! 
-! -----------------------General advert blocking filters-----------------------!
-! *** easylist:easylist/easylist_general_block.txt ***
-&sadbl=1$third-party
--ad-300x600-
--ad-458x80.
--ad-bottom-
--ad-column-
+! Homepage: https://Vellias.to/
+! GitHub issues: https://github.com/Ventrex/Adblock/issues
+! GitHub pull requests: https://github.com/Ventrex/Adblock/
+!
+
