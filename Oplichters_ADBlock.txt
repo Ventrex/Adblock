@@ -12,3 +12,4 @@
 ! GitHub pull requests: https://github.com/Ventrex/Adblock/
 !
 ||abbostop.nl^
+||123opzeggen.nl^
