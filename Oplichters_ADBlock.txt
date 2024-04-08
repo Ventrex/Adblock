@@ -337,3 +337,11 @@
 ||zolado.nl^
 ||zvaleta.com^
 ||zwartemarktpistool.com^
+!
+! Lijst van https://www.thuiswinkel.org/consumenten/actueel/politie-waarschuwt-voor-malafide-webshops/
+!
+||fitsport-winkel.com^
+||online-droomhuis.com^
+||keukenbaron24.com^
+!
+
